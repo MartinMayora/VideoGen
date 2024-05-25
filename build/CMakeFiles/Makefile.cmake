@@ -11,6 +11,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.22.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.22.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.22.1/CMakeSystem.cmake"
+  "../lib/FFmpeg/CMakeLists.txt"
   "../lib/glfw/CMake/cmake_uninstall.cmake.in"
   "../lib/glfw/CMake/glfw3.pc.in"
   "../lib/glfw/CMake/glfw3Config.cmake.in"
@@ -70,6 +71,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "lib/glfw/src/glfw3.pc"
   "lib/glfw/src/CMakeFiles/CMakeDirectoryInformation.cmake"
   "lib/glfw/docs/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "lib/FFmpeg/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:

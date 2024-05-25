@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/VideoGen.dir/src/load_frame.cpp.o"
+  "CMakeFiles/VideoGen.dir/src/load_frame.cpp.o.d"
   "CMakeFiles/VideoGen.dir/src/main.cpp.o"
   "CMakeFiles/VideoGen.dir/src/main.cpp.o.d"
   "VideoGen"

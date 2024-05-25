@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/mnt/c/Users/marti/Desktop/C++/VideoGen/VideoGen/src/load_frame.cpp" "CMakeFiles/VideoGen.dir/src/load_frame.cpp.o" "gcc" "CMakeFiles/VideoGen.dir/src/load_frame.cpp.o.d"
   "/mnt/c/Users/marti/Desktop/C++/VideoGen/VideoGen/src/main.cpp" "CMakeFiles/VideoGen.dir/src/main.cpp.o" "gcc" "CMakeFiles/VideoGen.dir/src/main.cpp.o.d"
   )
 

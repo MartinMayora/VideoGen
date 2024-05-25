@@ -213,6 +213,30 @@ update_mappings/fast:
 	$(MAKE) $(MAKESILENT) -f lib/glfw/src/CMakeFiles/update_mappings.dir/build.make lib/glfw/src/CMakeFiles/update_mappings.dir/build
 .PHONY : update_mappings/fast
 
+src/load_frame.o: src/load_frame.cpp.o
+.PHONY : src/load_frame.o
+
+# target to build an object file
+src/load_frame.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/VideoGen.dir/build.make CMakeFiles/VideoGen.dir/src/load_frame.cpp.o
+.PHONY : src/load_frame.cpp.o
+
+src/load_frame.i: src/load_frame.cpp.i
+.PHONY : src/load_frame.i
+
+# target to preprocess a source file
+src/load_frame.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/VideoGen.dir/build.make CMakeFiles/VideoGen.dir/src/load_frame.cpp.i
+.PHONY : src/load_frame.cpp.i
+
+src/load_frame.s: src/load_frame.cpp.s
+.PHONY : src/load_frame.s
+
+# target to generate assembly for a file
+src/load_frame.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/VideoGen.dir/build.make CMakeFiles/VideoGen.dir/src/load_frame.cpp.s
+.PHONY : src/load_frame.cpp.s
+
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
 
@@ -253,6 +277,9 @@ help:
 	@echo "... update_mappings"
 	@echo "... VideoGen"
 	@echo "... glfw"
+	@echo "... src/load_frame.o"
+	@echo "... src/load_frame.i"
+	@echo "... src/load_frame.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

@@ -26,3 +26,9 @@
 /mnt/c/Users/marti/Desktop/C++/VideoGen/VideoGen/build/lib/glfw/docs/CMakeFiles/install.dir
 /mnt/c/Users/marti/Desktop/C++/VideoGen/VideoGen/build/lib/glfw/docs/CMakeFiles/install/local.dir
 /mnt/c/Users/marti/Desktop/C++/VideoGen/VideoGen/build/lib/glfw/docs/CMakeFiles/install/strip.dir
+/mnt/c/Users/marti/Desktop/C++/VideoGen/VideoGen/build/lib/FFmpeg/CMakeFiles/edit_cache.dir
+/mnt/c/Users/marti/Desktop/C++/VideoGen/VideoGen/build/lib/FFmpeg/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/marti/Desktop/C++/VideoGen/VideoGen/build/lib/FFmpeg/CMakeFiles/list_install_components.dir
+/mnt/c/Users/marti/Desktop/C++/VideoGen/VideoGen/build/lib/FFmpeg/CMakeFiles/install.dir
+/mnt/c/Users/marti/Desktop/C++/VideoGen/VideoGen/build/lib/FFmpeg/CMakeFiles/install/local.dir
+/mnt/c/Users/marti/Desktop/C++/VideoGen/VideoGen/build/lib/FFmpeg/CMakeFiles/install/strip.dir
